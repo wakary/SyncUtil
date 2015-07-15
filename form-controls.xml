@@ -13,7 +13,7 @@
             author area. A form control can be a text field, a check box, a combo box or a pop-up
             selection window. Aside from these built-in types, you can also provide a custom
             implementation to handle a specific use case.</p>
-         <p editMode="true">To use a form control, the function <b>oxy_editor</b> must be used in
+         <p editMode="false">To use a form control, the function <b>oxy_editor</b> must be used in
             the CSS. This fuEnction can appear on the content property:</p>
          <pre>text:before {
          content: oxy_editor(type, text, edit, "#text");
