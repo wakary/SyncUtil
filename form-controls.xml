@@ -9,22 +9,22 @@
     xmlns="http://www.oxygenxml.com/ns/samples/form-controls">   
     <title>Form controls</title>
     <abstract>
-         <p>Form controls have been introduced to allow attribute values to be edited right into the
-            author area. A form control can be a text field, a check box, a combo box or a pop-up
-            selection window. Aside from these built-in types, you can also provide a custom
+         <p>Edit Form controls have been introduced to allow attribute values to be edited right
+            into the author area. A form control can be a text field, a check box, a combo box or a
+            pop-up selection window. Aside from these built-in types, you can also provide a custom
             implementation to handle a specific use case.</p>
          <p>To use a form control, the function <b>oxy_editor</b> must be used in the CSS. This
             fuEnction can appear on the content property:</p>
          <pre>text:before {
          content: oxy_editor(type, text, edit, "#text");
 }</pre>
-         <p>The function signature consists in property name -> property value pairs. For the previous
-             example we have two properties: <b>type</b> with value <b>text</b> and <b>edit</b> with
-             value <b>#text</b>.</p>
-         <p>These form controls can also be used to edit the text value of an element. Assuming that the
-             text value is edited using a form control, the same value shouldn't be presented in the
-             content. To obtain this behaviour you can use the following rule to hide the text content of
-             an element that will be edited with a form control:</p>
+         <p Attribute="aa">The function signature consists in property name -> property value pairs.
+            For the previous example we have two properties: <b>type</b> with value <b>text</b> and
+                <b>edit</b> with value <b>#text</b>.</p>
+         <p>These form controls can also be used to edit the text value of an element. Assuming that
+            the text value is edited using a form control, the same value shouldn't be presented in
+            the content. To obtain this behaviour you can use the following rule to hide the text
+            content of an element that will be edited with a form control:</p>
          <pre>text {
         visibility:-oxy-collapse-text;
 }</pre>
