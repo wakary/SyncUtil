@@ -9,10 +9,10 @@
     xmlns="http://www.oxygenxml.com/ns/samples/form-controls">   
     <title>Form controls</title>
     <abstract>
-         <p>###dsadassssFinished editing Form controls have been introduced to allow attribute
-            values to be edited right into the author area. A form control can be a text field, a
-            check box, a combo box or a pop-up selection window. Aside from these built-in types,
-            you can also provide a custom implementation to handle a specific use case.</p>
+         <p>Form controls have been introduced to allow attribute values to be edited right into the
+            author area. A form control can be a text field, a check box, a combo box or a pop-up
+            selection window. Aside from these built-in types, you can also provide a custom
+            implementation to handle a specific use case.</p>
          <p>To use a form control, the function <b>oxy_editor</b> must be used in the CSS. This
             fuEnction can appear on the content property:</p>
          <pre>text:before {
