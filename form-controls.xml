@@ -7,7 +7,7 @@
 <formControls xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.oxygenxml.com/ns/samples/form-controls form-controls.xsd"
     xmlns="http://www.oxygenxml.com/ns/samples/form-controls">   
-    <title>Form controls</title>
+    <title attr="22">Form controls</title>
     <abstract>
          <p>Form controls have been introduced to allow attribute values to be edited right into the
             author area. A form control can be a text field, a check box, a combo box or a pop-up
