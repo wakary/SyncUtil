@@ -9,7 +9,9 @@
                 (<b>Chrysanthemum</b>) of about 30 species of <xref keyref="flowers.perennial"
                 format="dita">perennial</xref> flowering plants in the family Asteraceae, native to
             Asia and northeastern Europe.</p>
-        <p><image href="../../images/Salvia.jpg" scale="200"/></p>
+        <p><image href="../../images/Salvia.jpg" scale="200"/><image
+                href="github://getFileContent/ggbt/SyncUtil/master/flowers/images/Lilac.jpg"
+                id="image_jxd_5zc_vs"/></p>
         <p class="- topic/p ">The genus once included many more species, but was split several
             decades ago into several genera; the naming of the genera has been contentious, but a
             ruling of the International Code of Botanical Nomenclature in 1999 resulted in the
