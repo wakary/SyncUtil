@@ -1,3 +1,0 @@
-# SyncUtil
-
-Pharoah
