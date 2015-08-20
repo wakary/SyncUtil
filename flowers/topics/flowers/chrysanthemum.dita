@@ -1,9 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
 <topic id="topic-1">
-    <title>Chrysanthemum</title>
+    <title>American Henderson Motorcycle</title>
     <body>
         <p><i>From Wikipedia, the free encyclopedia.</i></p>
+        <image
+            href="http://cdn.silodrome.com/wp-content/uploads/2013/02/1930-Henderson-Custom-Motorcycle-3.jpg"
+            id="image_ds3_4cw_bt"/>
         <p><b>Chrysanthemums</b><indexterm>flowers<indexterm>autumn<indexterm>chrysanthemums</indexterm></indexterm></indexterm>,
             often called 'mums', are a <xref keyref="flowers.genus" format="dita">genus</xref>
                 (<b>Chrysanthemum</b>) of about 30 species of <xref keyref="flowers.perennial"
@@ -19,9 +22,6 @@
             restoring the economically important florist's chrysanthemum to the genus
                 <b>Chrysanthemum</b>. These species were, after the splitting of the genus but
             before the ICBN ruling, commonly treated under the genus name <b>Dendranthema</b>.</p>
-        <p><image
-                href="http://cdn.silodrome.com/wp-content/uploads/2013/02/1930-Henderson-Custom-Motorcycle-3.jpg"
-                id="image_cmz_4z5_bt"/></p>
         <p><b>Chrysanthemums</b> were cultivated in China as a flowering herb as far back as the
             15th century BC. An ancient Chinese city was named Ju-Xian, meaning "<i>chrysanthemum
                 city</i>". The plant is particularly significant during the Double Ninth Festival.
