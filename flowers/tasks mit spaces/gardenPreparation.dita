@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/task.dtd">
 <task id="taskId">
-    <title>Garden Preparation</title>
+    <title>Garden Preparation - 2 The bikes return</title>
     <taskbody>
-        <context>
-            <p>An appreciation of the conditions under which bulbs grow in nature is of considerable
-                help in understanding their needs in cultivation<indexterm
-                            >general<indexterm>care<indexterm>cultivation</indexterm></indexterm></indexterm>,
+        <context><image
+                href="http://cdn.silodrome.com/wp-content/uploads/2013/02/1930-Henderson-Custom-Motorcycle-3.jpg"
+                id="image_xrh_cj2_ct"/><p>An appreciation of the conditions under which bulbs grow
+                in nature is of considerable help in understanding their needs in
+                            cultivation<indexterm>general<indexterm>care<indexterm>cultivation</indexterm></indexterm></indexterm>,
                 but is by no means all-sufficient. When plants are grown away from their native
                 homes-and perhaps are accommodated in pots indoors-they may respond to quite
                 different soils, temperatures, moisture conditions, etc., than those to which they
                 are subjected in the
-                    wild.<indexterm>tasks<indexterm>preparation</indexterm></indexterm></p>
-        </context>
+                    wild.<indexterm>tasks<indexterm>preparation</indexterm></indexterm></p></context>
         <steps>
             <step>
                 <cmd>Handle bulbs carefully. Any scarred or punctured bulb is more susceptible to
