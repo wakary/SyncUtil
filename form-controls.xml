@@ -7,7 +7,7 @@
 <formControls xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.oxygenxml.com/ns/samples/form-controls form-controls.xsd"
     xmlns="http://www.oxygenxml.com/ns/samples/form-controls">   
-    <title>Form controls</title>
+    <title>Form <?oxy_delete author="author1" timestamp="20150928T151612+0300" content="controls"?><?oxy_insert_start author="author1" timestamp="20150928T151612+0300" comment="This is a ciommmetn"?>Try<?oxy_insert_end?></title>
     <abstract>
          <p attr1="asdasdasd" attr2="2" attr3="3" attr4="4" attr5="5" attr6="QQQQQQQQQQQQQQQ"
             attr7="Value" attr8="12" editMode="true" dasdasdas="weqweqweqw" QQQ="321312321"
@@ -398,3 +398,4 @@ textArea[language="XML"]:before {
             corresponding character will be rendered instead of them.</p>
     </section>
 </formControls>
+<?oxy_options track_changes="on"?>
