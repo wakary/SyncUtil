@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
+<topic id="care">
+    <title>#Care and Preparation for your Masters#sdsadasdd</title>
+    <body>
+        <image href="http://i.imgur.com/6enqgrf.jpg" id="image_n4f_q5z_4t"/>
+        <p>When caring for your <keyword>Master</keyword> cat you want to feed your plants properly,
+            control pests and weeds. Good soil is a must to successful gardening, landscaping, and
+            healthy flowers. You have to
+                <indexterm>tasks<indexterm>preparation</indexterm></indexterm>balance the soil
+            structure with nutrients and regulate the pH to cover your plants' needs.</p>
+        <p><?oxy_comment_start author="Mary" timestamp="20120510T121702+0300" comment="Let&apos;s add information about fertilizers."?>
+            <image
+                href="http://cdnvideo.dolimg.com/cdn_assets/6ec195d634dc1f56d1970d8750a8945008bc3389.jpg"
+                id="image_mtk_n1g_pt"/><image
+                href="http://cdnvideo.dolimg.com/cdn_assets/6ec195d634dc1f56d1970d8750a8945008bc3389.jpg"
+                id="image_asj_41g_pt"/></p>
+        <p>And above all, remember that many flower gardens fail because they just don't get enough
+            of your attention.<?oxy_comment_end?></p>
+        <p>
+            <table frame="none">
+                <title>Flowers</title>
+                <tgroup cols="3">
+                    <colspec colname="c1" colnum="1" colwidth="171.0pt"/>
+                    <colspec colname="c2" colnum="2" colwidth="99.0pt"/>
+                    <colspec colname="newCol3" colnum="3" colwidth="200px"/>
+                    <thead>
+                        <row>
+                            <entry>Flower</entry>
+                            <entry>Type</entry>
+                            <entry>Soil</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Chrysanthemum</entry>
+                            <entry>perennial</entry>
+                            <entry>well drained</entry>
+                        </row>
+                        <row>
+                            <entry>Gardenia</entry>
+                            <entry>perennial</entry>
+                            <entry>acidic</entry>
+                        </row>
+                        <row>
+                            <entry>Gerbera</entry>
+                            <entry>annual</entry>
+                            <entry>sandy, well-drained</entry>
+                        </row>
+                        <row>
+                            <entry>Iris</entry>
+                            <entry>perennial</entry>
+                            <entry>slightly acidic</entry>
+                        </row>
+                        <row>
+                            <entry>Lilac</entry>
+                            <entry>perennial</entry>
+                            <entry>alkaline</entry>
+                        </row>
+                        <row>
+                            <entry>Salvia</entry>
+                            <entry>perennial</entry>
+                            <entry>average</entry>
+                        </row>
+                        <row>
+                            <entry>Snowdrop</entry>
+                            <entry>perennial</entry>
+                            <entry>humus-rich</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+        </p>
+    </body>
+</topic>
