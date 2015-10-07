@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "http://docs.oasis-open.org/dita/v1.1/OS/dtd/topic.dtd">
 <topic id="topic-1">
-  <title>|_Salvia_|<?oxy_insert_start author="author1" timestamp="20150923T175252+0300"?>2<?oxy_insert_end?></title>
+  <title>|_Salvia_|22</title>
   <body>
     <p><i>From Wikipedia, the free encyclopedia.</i></p>
     <p><b>Salvia</b><indexterm>flowers<indexterm>autumn<indexterm>salvia</indexterm></indexterm></indexterm>
@@ -40,17 +40,17 @@
       exclusively on <b>S. aegyptiaca</b>), <b>C. ornatipennella</b> and <b>C. virgatella</b> (both
       recorded on <b>S. pratensis</b>).</p>
     <p>The defining characteristic of the genus <b>Salvia</b> is the unusual <xref
-        keyref="flowers.pollination" format="dita">pollination</xref> mechanism,
-      which consists of two stamens (instead of the typical four found in other members of the tribe
-        <b>Mentheae</b>) and the way the two stamens are connected to form a lever. When a
-      pollinator enters the flower for nectar, the lever activates causing the stamens to move and
-      the pollen to be deposited on the pollinator. When the pollinator withdraws from the flower,
-      the lever returns the stamens to their original position. As the pollinator enters another
-      flower of the same species, the stigma is placed in a general location that corresponds to
-      where the pollen was deposited on the pollinator's body. It is believed that this is a key
-      factor in the speciation of this large group of diverse plants. However, it now appears that
-      somewhat different versions of this lever mechanism have evolved in the tribe Mentheae, and
-      that <b>Salvia</b> is not monophyletic.</p>
+        keyref="flowers.pollination" format="dita">pollination</xref> mechanism, which consists of
+      two stamens (instead of the typical four found in other members of the tribe <b>Mentheae</b>)
+      and the way the two stamens are connected to form a lever. When a pollinator enters the flower
+      for nectar, the lever activates causing the stamens to move and the pollen to be deposited on
+      the pollinator. When the pollinator withdraws from the flower, the lever returns the stamens
+      to their original position. As the pollinator enters another flower of the same species, the
+      stigma is placed in a general location that corresponds to where the pollen was deposited on
+      the pollinator's body. It is believed that this is a key factor in the speciation of this
+      large group of diverse plants. However, it now appears that somewhat different versions of
+      this lever mechanism have evolved in the tribe Mentheae, and that <b>Salvia</b> is not
+      monophyletic.</p>
   </body>
   <related-links>
     <link href="chrysanthemum.dita#topic-1"/>
@@ -58,4 +58,3 @@
 </topic>
 
 
-<?oxy_options track_changes="on"?>
