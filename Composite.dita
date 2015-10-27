@@ -4,7 +4,12 @@
   <topic id="topic_qn2_h2v_5t">
     <title>Composite</title>
     <body>
-      <p/>
+      <p>Good stuff here.</p>
+      <p><apiname>tryer.celeritas</apiname></p>
+      <codeblock/>
     </body>
+  </topic>
+  <topic id="topic_gbg_l2v_5t">
+    <title/>
   </topic>
 </dita>
