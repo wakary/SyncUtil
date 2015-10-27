@@ -30,6 +30,10 @@
     <frontmatter>
       <doctitle>Book Title</doctitle>
       <docauthor>Book Author</docauthor>
+      <docauthor>*Caledonia*</docauthor>
+      <level1/>
+      <level1/>
+      <level/>
     </frontmatter>
   </book>
 </dtbook>
