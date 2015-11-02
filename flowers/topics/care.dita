@@ -14,18 +14,18 @@
             And above all, remember that many flower gardens fail because they just don't get enough
             of your attention.<?oxy_comment_end?><?oxy_comment_end mid="1"?> And a new sentence.</p>
         <p/>
-        <p>
+        <title><p>
             <table frame="none">
-                <title>Flowers</title>
-                <tgroup cols="3">
+                
+        <entry><tgroup cols="3">
                     <colspec colname="c1" colnum="1" colwidth="171.0pt"/>
                     <colspec colname="c2" colnum="2" colwidth="99.0pt"/>
                     <colspec colname="newCol3" colnum="3" colwidth="200px"/>
                     <thead>
                         <row>
-                            <entry>Flower</entry>
-                            <entry>Type</entry>
-                            <entry>Soil</entry>
+                            
+        <entry>
+    <entry>Soil</entry>
                         </row>
                     </thead>
                     <tbody>
