@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="care">
-    <title></title>
+    <title>Care and Preparation</title>
     <body>
         <p>When caring for your
             <?oxy_insert_start author="Gabriel Titerlea" timestamp="20151103T093021+0200"?>lovely<?oxy_insert_end?>
@@ -29,12 +29,12 @@
                     <tbody>
                         <row>
                             <entry>Chrysanthemum</entry>
-                            <entry>perennial2</entry>
+                            <entry>perennial</entry>
                             <entry>well drained</entry>
                         </row>
                         <row>
                             <entry>Gardenia</entry>
-                            <entry></entry>
+                            <entry>perennial</entry>
                             <entry>acidic</entry>
                         </row>
                         <row>
@@ -44,22 +44,22 @@
                         </row>
                         <row>
                             <entry>Iris</entry>
-                            <entry></entry>
+                            <entry>perennial</entry>
                             <entry>slightly acidic</entry>
                         </row>
                         <row>
                             <entry>Lilac</entry>
-                            <entry></entry>
+                            <entry>perennial</entry>
                             <entry>alkaline</entry>
                         </row>
                         <row>
                             <entry>Salvia</entry>
-                            <entry></entry>
+                            <entry>perennial</entry>
                             <entry>average</entry>
                         </row>
                         <row>
                             <entry>Snowdrop</entry>
-                            <entry></entry>
+                            <entry>perennial</entry>
                             <entry>humus-rich</entry>
                         </row>
                     </tbody>
